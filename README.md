@@ -18,5 +18,5 @@ Supports unicast and broadcast messaging.
 To execute : 
 java Server 2008 (for server tab where 2008 is port number)<br />
 
-java Client <machine-name> 2008 (for client tabs)
+java Client |machine-name| 2008 (for client tabs)
 
