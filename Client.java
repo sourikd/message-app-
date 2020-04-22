@@ -61,10 +61,6 @@ public class Client
      {
 	System.out.println("Enter valid option");
      }
-	
-            
- 
-        
 
       //Receive text from server
       
@@ -161,12 +157,6 @@ public class Client
          System.out.println("No I/O transaction");
          System.exit(1);
       }
-     
-      
-     
-
-
-
 
    }//while
   }//communicate
